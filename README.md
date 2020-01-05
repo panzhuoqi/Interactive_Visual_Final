@@ -6,14 +6,7 @@
 - 合作成员：17网新1班潘卓祺、18网新杨少少、18网新黄志瑞
 
 
-
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
-
-```
-
-<iframe height=498 width=510 src="http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375">
-
-```
+<video src="http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
 
