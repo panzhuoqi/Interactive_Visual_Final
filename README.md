@@ -1,39 +1,50 @@
-# Interactive_Visual_Final
+## 🇺🇸 THE STORY OF AMERICA'S MASS KILLINGS 🇺🇸
+#### ✍🏻✍🏻✍🏻交互式数据可视化——数据故事✍🏻✍🏻✍🏻
 
-#### 介绍
-{**以下是码云平台说明，您可以替换此简介**
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
+- Gitee Pages页面：
+- Pythonanywhere的链接入口：
+- 合作成员：17网新1班潘卓祺、18网新杨少少、18网新黄志瑞
 
 
-#### 安装教程
+## 💡项目介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+**概述：** ：
+- 枪支暴力一直是美国社会重大的公共议题之一，美国在过去50年（1966-2017年）中目睹了398次大规模枪击事件，造成1996人死亡和2488人受伤。
+- 2017年10月1日拉斯维加斯的枪击事件是最糟糕的大规模枪击事件，导致59人死亡，527人受伤。这次袭击造成的伤害人数超过2015年和2016年所有大规模枪击事件加总的人数。在过去的50年中，每年平均发生大规模枪击事件7次，每年夺去39条生命，造成48人受伤。
+- 枪击是美国新闻报道当中最常见的关键词之一，同时，这也是美国人在平常生活当中无法避开的一个严重的问题。那么在美国枪击事件为什么发生的如此频繁？接下来的这些数据能够给出我们答案。
 
-#### 使用说明
+## 🎯项目目标
+完成最小可行的交互式数据可视化产品设计，做出PRD及至少有2份成功交互且交互意义相关连（以超连结或交互达成）的交互式界面（其中至少1份含地图）的产品原型或完整产品，包括使用相关Pyecharts及/或Plotly模块等等的整合外观样式及数据科学代码实践，以及外观样式的前端CSS及Javascript库调用实践（如Bootstrap）
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## 项目进程
+- 2019.12.29完成数字故事
+- 2019.01.04完成html5/css，定终稿（未部署）
 
 
-#### 码云特技
+## 📝分析方法／使用技术
+- 基于[pyecharts](https://pyecharts.org/#/zh-cn/intro)与plotly等技术
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+## ❕评分要求
+【18级《python》评分点：】
+- 实现交互功能 
+- 实现在pythonanywhere布署可用
+- 基本Readme.md技术文档之总结说明, 含项目之
+    - 代码Github URL
+    - pythonanywhere URL
+    - 数据传递描述
+- 基本交互功能的HTML5控件使用丰富性(加分项)
+
+【17级《交互》评分点：】
+- 数据清洗和收集难度，数据集丰富程度
+- 交互功能对于强化数据产品或者数据故事表现力的程度
+- 交互界面是否美观、得体（用plotly、pyecharts、网页CSS样式等渠道实现的都包含在内）
+- 整体数据产品/数据故事是否有洞见，給用戶交互生洞見的引導及可能性
+
+
+## 🔗数据来源
+- us-mass-shootings-last-50-years
+- gun-violence-data 
+- [Pew Research Center](https://www.pewresearch.org/)
+
+
