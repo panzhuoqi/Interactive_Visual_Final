@@ -6,7 +6,7 @@
     - http://forgunsmatter.pythonanywhere.com/  （完整版，查看详情数据页面暂时无法部署成功，与枪手有关的页面图表暂时无法部署成功）
     - http://forgunsmatter2.pythonanywhere.com/  （与枪手有关的页面）
 
-- 视频演示：本地运行，完整版，所有功能都已实现[点击此处](http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375)
+- 视频演示：本地运行，完整版，所有功能都已实现[【点击此处】](http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375)
 - 合作成员：17网新1班潘卓祺、18网新杨少少、18网新黄志瑞
 
 
