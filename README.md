@@ -6,13 +6,10 @@
 - 合作成员：17网新1班潘卓祺、18网新杨少少、18网新黄志瑞
 
 <audio id="audio" controls="" preload="none">
-<source id="mp3" src="http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375">
+<source id="mp4" src="http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375">
 </audio>
 
-作者：范东同学
-链接：https://www.jianshu.com/p/0742bb15c2dd
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 
 
 ## 💡项目介绍
