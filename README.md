@@ -5,10 +5,14 @@
 - Pythonanywhere的链接入口：http://forgunsmatter.pythonanywhere.com/   
 - 合作成员：17网新1班潘卓祺、18网新杨少少、18网新黄志瑞
 
-<audio id="audio" controls="" preload="none">
-<source id="mp4" src="http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375">
-</audio>
 
+<iframe>
+    height=450 
+    width=800 
+    src="http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
 
 
 
