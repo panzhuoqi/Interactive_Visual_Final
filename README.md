@@ -5,7 +5,7 @@
 - Pythonanywhere的链接入口：http://forgunsmatter.pythonanywhere.com/   
 - 合作成员：17网新1班潘卓祺、18网新杨少少、18网新黄志瑞
 
-<iframe src="http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=34848924&cid=140268515&page=11" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 💡项目介绍
 
