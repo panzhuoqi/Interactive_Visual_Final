@@ -11,6 +11,13 @@
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/231747_9760aac7_1532279.gif "01.gif")
 
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/232452_b4905ef4_1532279.gif "02.gif")
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/232508_d3c1e1b0_1532279.gif "03.gif")
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/232801_9e8f53a3_1532279.gif "04.gif")
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/233128_4ba8502c_1532279.gif "05.gif")
 
 ## 💡项目介绍
 
