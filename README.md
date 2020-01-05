@@ -2,13 +2,9 @@
 #### ✍🏻✍🏻✍🏻交互式数据可视化——数据故事✍🏻✍🏻✍🏻
 
 - Gitee Pages页面：http://nfunm068.gitee.io/interactive_visual_final
-- Pythonanywhere的链接入口：http://forgunsmatter.pythonanywhere.com/   
+- Pythonanywhere的链接入口：http://forgunsmatter.pythonanywhere.com/  
+- 视频演示：[点击此处](http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375)
 - 合作成员：17网新1班潘卓祺、18网新杨少少、18网新黄志瑞
-
-
-<video src="http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
-
-
 
 
 ## 💡项目介绍
