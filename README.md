@@ -3,7 +3,7 @@
 
 - Gitee Pages页面：http://nfunm068.gitee.io/interactive_visual_final
 - Pythonanywhere的链接入口：http://forgunsmatter.pythonanywhere.com/ 
-- 视频演示：本地运行，完整版，所有功能都已实现[【点击此处】](http://mpvideo.qpic.cn/0bf2lqaamaaa3qantoirg5pfaxgdazoaabqa.f10002.mp4?dis_k=f5ab8a91d2e8136c26db79c3b1291482&dis_t=1578231375)
+- 视频演示：本地运行，完整版，所有功能都已实现[【点击此处】](https://v.youku.com/v_show/id_XNDQ5ODYxNDkxMg==.html)
 - 合作成员：17网1潘卓祺、18网2杨少少、18网3黄志瑞
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/231747_9760aac7_1532279.gif "01.gif")
